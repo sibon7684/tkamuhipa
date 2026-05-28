@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Runtime-generated diagnostics & dataset cache
+src/schema.json
+src/schema-diag.json
+src/schema-csv.json

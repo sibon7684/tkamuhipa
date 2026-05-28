@@ -1,0 +1,6 @@
+{
+  "name": "Hasil TKA TKAD MUHIPA",
+  "description": "Aman dan responsif, aplikasi untuk memeriksa hasil ujian TKA dan TKAD MUHIPA serta mengunduh hasil dalam bentuk PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
